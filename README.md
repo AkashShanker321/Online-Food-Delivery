@@ -8,13 +8,13 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 <h3> 2.Second Step : Copy the main project folder </h3>
 <h3> 3.Third Step : Paste in xampp/htdocs/ </h3>
 
-<b> <u> Connecting Database </u> </b>
+<h2> Connecting Database </h2>
 <h3> 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/” </h3>
 <h3> 5th Step: Then, click on the databases tab </h3>
 <h3> 6th Step: Create a database naming “foodorder” and then click on the import tab </h3>
 <h3> 7th Step: Click on browse file and select “foodorder.sql” file which is inside the “Online-Food-Order” folder </h3>
 <h3> 8th Step: Click on go. </h3>
 
-<b> <u> After Creating Database </b> </u>
+<h2> After Creating Database </h2>
 <h3> 9th Step: Open a browser and go to URL “http://localhost/Online-Food-Order/” </h3>
 <h3> For the admin section go to “http://localhost/Online-Food-Order/managerlogin.php” </h3>
