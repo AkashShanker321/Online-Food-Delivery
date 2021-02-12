@@ -19,7 +19,7 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 <h3> 9th Step: Open a browser and go to URL “http://localhost/Online-Food-Order/” </h3>
 <h3> For the admin section go to “http://localhost/Online-Food-Order/managerlogin.php” </h3>
 
-# Scrreenshots
+# Screenshots
 ![screencapture-localhost-Online-Food-Order-customerlogin-php-2021-02-12-23_31_48](https://user-images.githubusercontent.com/76723803/107804902-8dfcc700-6d8a-11eb-9202-453ede757489.png)
 ![screencapture-localhost-Online-Food-Order-foodlist-php-2021-02-12-23_31_11](https://user-images.githubusercontent.com/76723803/107804913-92c17b00-6d8a-11eb-871a-3b6a15a1e15b.png)
 ![screencapture-localhost-Online-Food-Order-contactus-php-2021-02-12-23_30_39](https://user-images.githubusercontent.com/76723803/107804916-95bc6b80-6d8a-11eb-9a93-5b6311196e2b.png)
